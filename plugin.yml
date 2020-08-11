@@ -1,0 +1,9 @@
+name: VanityFreeze
+version: 1.0.0
+author: Danika6677
+main: hu.danika6677dev.freeze.Main
+
+commands:
+  freeze:
+    permission: freeze.command
+    description: Fo parancs

@@ -1,0 +1,9 @@
+#Plugin Made By: Danika6677 (https://github.com/danika6677)
+#Version: 1.0
+#Vanity plugin
+#MC: 1.8.8
+#hamarosan 1.7!
+#LiteBanst hasznalj ajanlott!
+csatlakozz: 'ts.szerod.hu'
+banevent: 'tempban %player% 1h Kilépés lefagyasztva.'
+leaveevent: '&4Freeze&7> &e%player% &ckilépett lefagyasztva!'
