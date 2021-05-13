@@ -1,3 +1,5 @@
+# EZ A PLUGIN ELHAGYATOTT! ARCHIVED
+
 # VanityFreeze
 # Plugman: /plugman reload parancsot ne használj!
 # Minden ban plugint támogatt!
